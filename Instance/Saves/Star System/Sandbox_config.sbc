@@ -179,6 +179,11 @@
       <PublishedFileId>2272613450</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
+    <ModItem FriendlyName="HnZ Lobby">
+      <Name>3367405787.sbm</Name>
+      <PublishedFileId>3367405787</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
   </Mods>
   <SessionName>Lobby</SessionName>
   <LastSaveTime>2024-11-17T14:22:05.6029657+08:00</LastSaveTime>
