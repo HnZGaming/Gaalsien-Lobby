@@ -61,7 +61,7 @@
     <CanJoinRunning>false</CanJoinRunning>
     <PhysicsIterations>8</PhysicsIterations>
     <SunRotationIntervalMinutes>120</SunRotationIntervalMinutes>
-    <EnableJetpack>true</EnableJetpack>
+    <EnableJetpack>false</EnableJetpack>
     <SpawnWithTools>false</SpawnWithTools>
     <BlueprintShareTimeout>30</BlueprintShareTimeout>
     <BlueprintShare>true</BlueprintShare>
@@ -155,7 +155,7 @@
     <BroadcastControllerMaxOfflineTransmitDistance>200</BroadcastControllerMaxOfflineTransmitDistance>
     <TemporaryContainers>true</TemporaryContainers>
     <GlobalEncounterTimer>15</GlobalEncounterTimer>
-    <GlobalEncounterCap>1</GlobalEncounterCap>
+    <GlobalEncounterCap>0</GlobalEncounterCap>
     <GlobalEncounterEnableRemovalTimer>true</GlobalEncounterEnableRemovalTimer>
     <GlobalEncounterMinRemovalTimer>90</GlobalEncounterMinRemovalTimer>
     <GlobalEncounterMaxRemovalTimer>180</GlobalEncounterMaxRemovalTimer>
@@ -181,5 +181,5 @@
     </ModItem>
   </Mods>
   <SessionName>Lobby</SessionName>
-  <LastSaveTime>2024-11-12T05:29:50.569482+08:00</LastSaveTime>
+  <LastSaveTime>2024-11-17T14:22:05.6029657+08:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>

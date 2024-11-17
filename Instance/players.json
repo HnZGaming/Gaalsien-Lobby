@@ -1,0 +1,79 @@
+[
+  {
+    "Player": "AnnoqueKNJ",
+    "SteamID": 76561198202932031,
+    "IdentityID": 144115188075855996,
+    "Rank": "Default",
+    "KnownIps": [
+      "124.246.71.255",
+      "103.10.124.124"
+    ],
+    "DiscordData": {
+      "DiscordName": null,
+      "DiscordID": 0,
+      "Roles": {}
+    },
+    "Permissions": {
+      "Allowed": [],
+      "Disallowed": []
+    },
+    "Homes": {}
+  },
+  {
+    "Player": "xXdaSimXx",
+    "SteamID": 76561198038626545,
+    "IdentityID": 0,
+    "Rank": "Default",
+    "KnownIps": [
+      "220.255.79.113"
+    ],
+    "DiscordData": {
+      "DiscordName": null,
+      "DiscordID": 0,
+      "Roles": {}
+    },
+    "Permissions": {
+      "Allowed": [],
+      "Disallowed": []
+    },
+    "Homes": {}
+  },
+  {
+    "Player": "zcbm570",
+    "SteamID": 76561198163033529,
+    "IdentityID": 0,
+    "Rank": "Default",
+    "KnownIps": [
+      "210.17.84.153"
+    ],
+    "DiscordData": {
+      "DiscordName": null,
+      "DiscordID": 0,
+      "Roles": {}
+    },
+    "Permissions": {
+      "Allowed": [],
+      "Disallowed": []
+    },
+    "Homes": {}
+  },
+  {
+    "Player": "Culepica",
+    "SteamID": 76561198054225904,
+    "IdentityID": 0,
+    "Rank": "Default",
+    "KnownIps": [
+      "222.164.133.169"
+    ],
+    "DiscordData": {
+      "DiscordName": null,
+      "DiscordID": 0,
+      "Roles": {}
+    },
+    "Permissions": {
+      "Allowed": [],
+      "Disallowed": []
+    },
+    "Homes": {}
+  }
+]
