@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-16"?>
+<SessionConfig xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <RocketLeague>
+    <GridName>Lobby</GridName>
+    <RedGoalSensorName>Goal-Red</RedGoalSensorName>
+    <BluGoalSensorName>Goal-Blu</BluGoalSensorName>
+    <BallSpawnerSensorName>BallSpawner</BallSpawnerSensorName>
+    <BallSpawnerDistance>6</BallSpawnerDistance>
+  </RocketLeague>
+</SessionConfig>
