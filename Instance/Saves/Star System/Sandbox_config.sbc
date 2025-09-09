@@ -72,8 +72,6 @@
     <EnableWolfs>false</EnableWolfs>
     <EnableSpiders>false</EnableSpiders>
     <FloraDensityMultiplier>1</FloraDensityMultiplier>
-    <EnableStructuralSimulation>false</EnableStructuralSimulation>
-    <MaxActiveFracturePieces>50</MaxActiveFracturePieces>
     <BlockTypeLimits>
       <dictionary />
     </BlockTypeLimits>
@@ -165,6 +163,7 @@
     <EnablePlanetaryEncounters>true</EnablePlanetaryEncounters>
     <PlanetaryEncounterTimerMin>15</PlanetaryEncounterTimerMin>
     <PlanetaryEncounterTimerMax>30</PlanetaryEncounterTimerMax>
+    <PlanetaryEncounterTimerFirst>5</PlanetaryEncounterTimerFirst>
     <PlanetaryEncounterExistingStructuresRange>7000</PlanetaryEncounterExistingStructuresRange>
     <PlanetaryEncounterAreaLockdownRange>10000</PlanetaryEncounterAreaLockdownRange>
     <PlanetaryEncounterDesiredSpawnRange>6000</PlanetaryEncounterDesiredSpawnRange>
@@ -172,6 +171,17 @@
     <PlanetaryEncounterDespawnTimeout>120</PlanetaryEncounterDespawnTimeout>
     <LimitBlocksBy>BlockPairName</LimitBlocksBy>
     <MaxHudChatMessageCount>100</MaxHudChatMessageCount>
+    <EnableShareInertiaTensor>true</EnableShareInertiaTensor>
+    <EnableUnsafePistonImpulses>false</EnableUnsafePistonImpulses>
+    <EnableUnsafeRotorTorques>false</EnableUnsafeRotorTorques>
+    <EnableRadiation>false</EnableRadiation>
+    <SolarRadiationIntensity>0</SolarRadiationIntensity>
+    <ResetForageableItems>true</ResetForageableItems>
+    <ResetForageableItemsTimeM>30</ResetForageableItemsTimeM>
+    <ResetForageableItemsDistance>3000</ResetForageableItemsDistance>
+    <FoodConsumptionRate>0</FoodConsumptionRate>
+    <EnableSurvivalBuffs>false</EnableSurvivalBuffs>
+    <EnableReducedStatsOnRespawn>false</EnableReducedStatsOnRespawn>
   </Settings>
   <Mods>
     <ModItem FriendlyName="NexusSyncMod">
@@ -186,5 +196,5 @@
     </ModItem>
   </Mods>
   <SessionName>Welcome</SessionName>
-  <LastSaveTime>2025-09-02T23:12:11.8364075+08:00</LastSaveTime>
+  <LastSaveTime>2025-09-09T11:57:09.6080097+08:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>
