@@ -194,6 +194,11 @@
       <PublishedFileId>3367405787</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
+    <ModItem FriendlyName="Space Music - Anime">
+      <Name>753499143.sbm</Name>
+      <PublishedFileId>753499143</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
   </Mods>
   <SessionName>Welcome</SessionName>
   <LastSaveTime>2025-09-09T11:57:09.6080097+08:00</LastSaveTime>
