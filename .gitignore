@@ -40,7 +40,6 @@ Instance/Saves/**/Backup
 
 Instance/**/*.txt
 Instance/FoogsRewards.cfg
-Instance/SEDiscordBridge.cfg
 Instance/TorchAlertPlugin.cfg
 Instance/TorchInfluxDbPlugin.cfg
 Instance/TorchMonitorPlugin.cfg
@@ -54,3 +53,4 @@ Instance/Saves/Star System/Storage/3329806962.sbm_gridstorage/log.*
 Instance/Saves/ViewedContent.sbl
 *.mes
 Instance/**/*.json
+.env
